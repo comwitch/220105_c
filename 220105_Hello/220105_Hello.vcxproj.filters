@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="Hello.cpp" />
+    <ClCompile Include="Variable.cpp" />
+    <ClCompile Include="if.cpp" />
+    <ClCompile Include="Switch.cpp" />
+    <ClCompile Include="While.cpp" />
+    <ClCompile Include="For.cpp" />
+    <ClCompile Include="Operator.cpp" />
+    <ClCompile Include="Array.cpp" />
+    <ClCompile Include="Struct.cpp" />
+    <ClCompile Include="Function.cpp" />
+    <ClCompile Include="pointer.cpp" />
+    <ClCompile Include="소스.cpp" />
+    <ClCompile Include="hw1.cpp" />
+    <ClCompile Include="임시용.cpp" />
+    <ClCompile Include="FunctionPointer.cpp" />
+    <ClCompile Include="StructPointer.cpp" />
+    <ClCompile Include="character.cpp" />
+    <ClCompile Include="TypeCasting.cpp" />
+    <ClCompile Include="hw2.cpp" />
+  </ItemGroup>
+</Project>
